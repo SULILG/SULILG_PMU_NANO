@@ -1,0 +1,2 @@
+# SULILG_PMU_NANO
+关于Ardupilot飞控使用的电流计，采样INA228使用I2C通信，包含6S降压模块支持5V4A电流输出。
